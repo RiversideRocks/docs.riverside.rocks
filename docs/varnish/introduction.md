@@ -1,4 +1,4 @@
-## Introduction to Varnish and Caching
+# Introduction to Varnish and Caching
 
 Sometimes, it's impossible to streamline your code even more. Some processes are always going to be costly in terms of CPU and memory. Thankfully, a solution to this is using a caching program. Instead of generating a dynamic page multiple times, a cache program will the generated page in memory and serve the page from memory to users.
 
