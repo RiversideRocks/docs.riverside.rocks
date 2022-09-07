@@ -23,3 +23,7 @@ Everything Varnish caches is saved in memory, which has upsides (see "Speeds up 
 ### Unintended Side Effects <!-- tom scott steam video -->
 
 If Varnish or any caching program is configured incorrectly, there can be unintended consiquences, such as the caching of cookies or pages with user infomation. **NEVER CACHE PAGES WITH COOKIES!!!** Cookies can often contain information unique to a logged in user, and if cached, they will be made public to anyone who accesses the website or said page. Hackers (or, really anyone with technical knowledge) can use cookies to log steal account information. If you still aren't convinced, check out [Tom Scott's video on the time Steam made this mistake](https://youtu.be/dkSslseq9Y8).
+
+## Cloud Varnish
+
+If you're interested in running Varnish cache in the cloud, I suggest you check out a cloud reverse proxy like [Fastly](https://www.fastly.com) which is based off Varnish.
