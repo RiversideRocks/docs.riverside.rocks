@@ -13,5 +13,12 @@ There are many options for reverse proxy services in the Cloud. This document pr
 
 * Lowest Tier: Contact sales (base price: $50 a month plus bandwidth charges)
 * Bandwidth Price: $50 + $0.12 exgress traffic (North America)
-* Number of Datacenters/PoPs: 
+* Number of Datacenters/PoPs: See [fastly.com/network-map/](https://www.fastly.com/network-map/)
 * Network Capacity: 215tbps
+
+## Akamai
+
+* Lowest Tier: 
+
+## KeyCDN
+https://www.keycdn.com/akamai-pricing
