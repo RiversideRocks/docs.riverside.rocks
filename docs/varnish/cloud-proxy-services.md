@@ -15,17 +15,25 @@ There are many options for reverse proxy services in the Cloud. This document pr
 * Lowest Tier: Contact sales (base price: $50 a month plus bandwidth charges)
 * Tier System: Base Fee ($50) + Bandwidth paid for by GB
 * Bandwidth Price: $0.12 exgress traffic (North America)
-* Number of Datacenters/PoPs: See [fastly.com/network-map/](https://www.fastly.com/network-map/)
+* Number of Datacenters/PoPs: 81 unique, some locations have multiple PoPs, see [fastly.com/network-map/](https://www.fastly.com/network-map/)
 * Network Capacity: 215tbps
 
 ## Akamai
 
 * Lowest Tier: (contact for price)
+* Tier System: Base fee (?) + Bandwidth paid for by GB
+* Bandwidth Price: $0.35 (unoffical source: https://www.keycdn.com/akamai-pricing)
+* Number of Datacenters/PoPs: Almost every country (minus China, Syria, North Korea, Sierra Leone, and a few others), see https://www.akamai.com/site/en/documents/akamai/points-of-presence-countries.pdf *
+
+`*` It's safe to assume some locations on this map are not real, the chances of Akamai having servers in Antartica and Christmas Island are slim
 
 ## KeyCDN
-https://www.keycdn.com/akamai-pricing
 
 ## Cachefly
 
 * Lowest Tier: "Essential", includes 10TB of traffic (contact for price)
 * Tier System: Base fee (?) + Fixed ammount of data included, unless on "performance" plan where transfer is unmetered
+
+
+# To sum it up
+
