@@ -24,6 +24,7 @@ There are many options for reverse proxy services in the Cloud. This document pr
 * Tier System: Base fee (?) + Bandwidth paid for by GB
 * Bandwidth Price: $0.35 (unoffical source: https://www.keycdn.com/akamai-pricing)
 * Number of Datacenters/PoPs: Almost every country (minus China, Syria, North Korea, Sierra Leone, and a few others), see https://www.akamai.com/site/en/documents/akamai/points-of-presence-countries.pdf *
+* Network Capactity: Unknown, but they have boasted spikes of 250tbps, meaning their network can likley handle much more than 250tbps
 
 `*` It's safe to assume some locations on this map are not real, the chances of Akamai having servers in Antartica and Christmas Island are slim
 
@@ -34,6 +35,7 @@ There are many options for reverse proxy services in the Cloud. This document pr
 * Lowest Tier: "Essential", includes 10TB of traffic (contact for price)
 * Tier System: Base fee (?) + Fixed ammount of data included, unless on "performance" plan where transfer is unmetered
 
+## Cloudfront
 
 # To sum it up
 
