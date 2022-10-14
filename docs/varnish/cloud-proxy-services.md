@@ -47,7 +47,11 @@ There are many options for reverse proxy services in the Cloud. This document pr
 
 ## Cloudfront
 
-* Lowest Tier:
+* Lowest Tier: AWS Free Tier, includes 1TB of bandwidth a month
+* Tier System: 1TB Free + Charged by the GB
+* Bandwidth Price: $0.09 (North America), see [calculator.aws](https://calculator.aws)
+* Number of Datacenters/PoPs: 400+
+* Network Capactiy: "hundreds of terabits of deployed capacity", see [aws.amazon.com/cloudfront/features/](https://aws.amazon.com/cloudfront/features/)
 
 # To sum it up
 
