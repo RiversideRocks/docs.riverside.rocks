@@ -55,3 +55,10 @@ There are many options for reverse proxy services in the Cloud. This document pr
 
 # To sum it up
 
+> Disclaimer: This 100% my personal opinion.
+
+* Cloudflare is best for beginners or people looking to save on their CDN/DDoS protection
+* Cloudfront and Akamai are the best corporate solutions
+* KeyCDN looks like a promising competitor in the future, I like their simple pricing system
+
+> Last updated: 10/15/2022
