@@ -3,7 +3,7 @@
 This chart will help you determine if you need a VPN, Tor, or neither:
 
 | Objective         | VPN     | Tor |
-|--------------|-----------|------------|------------|
+|--------------|-----------|------------|
 | I don't want hackers to see my passwords on public wifi! | No      | No      |
 | I don't want the government spying on my browsing. | No | Yes | 
 | I don't want my school/company spying on my browsing. | Yes | Yes |
