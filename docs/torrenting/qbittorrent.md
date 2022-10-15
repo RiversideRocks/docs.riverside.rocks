@@ -14,4 +14,6 @@ You should then see a large textbox apear. Paste your torrent/magnet link into t
 
 ## Binding to a VPN
 
-When using a VPN, you should never trust the VPN client killswitch feature. Instead, you should bind your client to the VPN's network interface. This is an effective solution for preventing traffic leaks. First, go to hover over the "Tools" tab, then click on "Preferences" (alternatively, you can run ALT+O on Windows and Linux). Then, click on "Advanced". You should see a box where you can set your network interface to bind to. 
+When using a VPN, you should never trust the VPN client killswitch feature. Instead, you should bind your client to the VPN's network interface. This is an effective solution for preventing traffic leaks. First, go to hover over the "Tools" tab, then click on "Preferences" (alternatively, you can run ALT+O on Windows and Linux). Then, click on "Advanced". You should see a box where you can set your network interface to bind to. To determine what this interface is, see [Network Interfaces](/VPN/network-interface). If your VPN isn't on this list, the interface likley contains the name of your VPN in it.
+
+> Last Updated: 10/15/2022

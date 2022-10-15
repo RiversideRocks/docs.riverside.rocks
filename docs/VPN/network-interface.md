@@ -8,3 +8,6 @@ Many VPN clients will create a network interface on your device when they are ac
 |--------------|-----------|
 | Private Internet Access | wgpia0      |
 | NordVPN      | utun1, utun2, utun3, utun4  |
+| Mullvad | wg-mullvad |
+
+> Last Updated: 10/15/2022
