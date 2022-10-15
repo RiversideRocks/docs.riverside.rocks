@@ -19,3 +19,4 @@ This chart will help you determine if you need a VPN, Tor, or neither:
 4) A VPN will not protect you from fingerprinting are targeted ads. Tor (with the correct seurity settings) can.
 5) Maybe, see [Do You Need a VPN?](/torrenting/do-you-need-a-vpn). Never torrent over Tor.
 6) Achieving true anonymity on the internet is hard, if not impossible, and a VPN certainly won't do it. While websites [dedicated to promoting VPNs will tell you VPNs are the best one-and-done tool for privacy](https://proprivacy.com/vpn/comparison/best-anonymous-vpn), the truth is a lot more complex that than. Privacy is a series of changes to your internet lifestyle, and a VPN isn't going to magically make your activity unknown to all.
+

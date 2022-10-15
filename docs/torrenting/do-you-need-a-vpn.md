@@ -1,4 +1,4 @@
-# Do I Need a VPN?
+# Do I Need a VPN (for torrenting)?
 
 Probably. If downloading content you really shouldn't be, you'll most likley get some sort of a DMCA notice in your email ([or your real mail](https://www.howtogeek.com/wp-content/uploads/2013/01/comcast-dmca-letter.jpg)). [Even legal torrenting sometimes gets ISPs upset](https://torrentfreak.com/comcast-subscriber-receives-dmca-notice-for-downloading-ubuntu-210526/). The following is a chart to determine if you need a VPN for torrenting.
 
