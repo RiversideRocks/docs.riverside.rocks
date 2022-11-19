@@ -1,6 +1,3 @@
 # Web Server Comparison
 
-|          | Price     | # In stock |
-|--------------|-----------|------------|
-| Juicy Apples | 1.99      | *7*        |
-| Bananas      | **1.89**  | 5234       |
+> This page is under construction

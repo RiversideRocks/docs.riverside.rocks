@@ -1,3 +1,3 @@
 # Welcome to docs.riverside.rocks!
 
-This is a site hosting basic orginal documenation for basic usage of various sysadmin tools and essays on privacy. Enjoy!
+This is a collection of tutorials and instructions for software I've used over the years. Enjoy, and leave a note on [Github](https://github.com/RiversideRocks/docs.riverside.rocks) is something needs to be fixed.
